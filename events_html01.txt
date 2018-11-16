@@ -1,0 +1,11 @@
+<div>
+<p>
+	<img src="https://images-na.ssl-images-amazon.com/images/I/41Dp40LswAL._SY450_.jpg"/>
+</p>
+<p>
+	Very cool message number 1!
+</p>
+<p>
+Nier: Automata[a] is an action role-playing game developed by PlatinumGames and published by Square Enix. The game was released for the PlayStation 4 and Microsoft Windows in early 2017, with an Xbox One port later in June 2018. Nier: Automata is a sequel to the 2010 video game NieR, a spin-off sequel of the Drakengard series. 
+</p>
+</div>
